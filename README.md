@@ -41,15 +41,31 @@
 <p align="left">
  <code>🤹🏻 My super duper skills:</code>
 <p>
-<p>
-    <code>lang = {'Python', 'JavaScript'}</code><br>
-    <code>framework = {'Flask', 'Django'}</code><br>
-    <code>layout = {'HTML', 'CSS', 'Bootstrap'}</code><br>
-    <code>db = {'SQLite', 'MongoDB', 'PostgreSQL'}</code><br>
-    <code>containerization = {'Docker', 'Vagrant'}</code><br>
-    <code>scraping = {'Scrapy', 'Selenium', 'BeautifulSoup'}</code><br>
-</p>
 
+[//]: # (<p>)
+
+[//]: # (    <code>lang = {'Python', 'JavaScript'}</code><br>)
+
+[//]: # (    <code>framework = {'Flask', 'Django'}</code><br>)
+
+[//]: # (    <code>layout = {'HTML', 'CSS', 'Bootstrap'}</code><br>)
+
+[//]: # (    <code>db = {'SQLite', 'MongoDB', 'PostgreSQL'}</code><br>)
+
+[//]: # (    <code>containerization = {'Docker', 'Vagrant'}</code><br>)
+
+[//]: # (    <code>scraping = {'Scrapy', 'Selenium', 'BeautifulSoup'}</code><br>)
+
+[//]: # (</p>)
+
+```python
+lang = {'Python', 'JavaScript'}
+framework = {'Flask', 'Django'}
+layout = {'HTML', 'CSS', 'Bootstrap'}
+db = {'SQLite', 'MongoDB', 'PostgreSQL'}
+containerization = {'Docker', 'Vagrant'}
+scraping = {'Scrapy', 'Selenium', 'BeautifulSoup'}
+```
 ###
 
 [//]: # (![Snake animation]&#40;https://github.com/blackbirdcoder/blackbirdcoder/blob/output/snake.svg&#41;)
