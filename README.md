@@ -25,7 +25,7 @@
 </p>
 
 <p align="left">
-        <code>👩‍💻 Python developer, programmer enthusiast</code><br>
+        <code>👩‍💻 <span style="color:yellow;">Python</span> developer, programmer enthusiast</code><br>
         <code>📚 I like to read science fiction and ufology</code><br>
         <code>💀 I respect underground and old school</code><br>
         <code>🐧 Linux lover, freedom lover</code><br>
