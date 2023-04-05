@@ -47,7 +47,9 @@
 </div>
 
 ###
-![Snake animation](https://github.com/blackbirdcoder/blackbirdcoder/blob/output/snake.svg)
+
+[//]: # (![Snake animation]&#40;https://github.com/blackbirdcoder/blackbirdcoder/blob/output/snake.svg&#41;)
+<img src="https://github.com/blackbirdcoder/blackbirdcoder/blob/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blackbirdcoder&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
