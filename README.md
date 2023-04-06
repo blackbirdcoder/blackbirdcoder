@@ -27,12 +27,12 @@
 <p align="left">
         <code>👩‍💻 Python developer, programmer enthusiast</code><br>
         <code>📚 I like to read science fiction and ufology</code><br>
-        <code>💀 I respect underground and old school</code><br>
+        <code>💀 I respect underground and old school technologies</code><br>
         <code>🐧 Linux lover, freedom lover</code><br>
         <code>👨🏼‍🎓 Technical student</code><br>
         <code>🤖 Passionate about web scraping, backend</code><br>
         <code>🧪 Curious person, a bit of an experimenter</code><br>
-        <code>🔖 Also known as 🐢</code><br>
+        <code>🔖 Also known as my nickname 🐢</code><br>
 </p>
 
 
